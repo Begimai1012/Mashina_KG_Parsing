@@ -7,3 +7,11 @@ Retrieve new data and compare the market conditions with historical data `Mashin
 
 When running the script, you need to specify the number of pages you want to parse. Each page on the website contains 20 listings.
 There can be around 1500 pages in total, but verify this number on the [website](https://m.mashina.kg/search/all).
+
+
+```
+git clone https://github.com/simonlobgromov/Mashina_KG_Parsing
+cd Mashina_KG_Parsing
+
+python parsing.py
+```
