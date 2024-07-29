@@ -12,6 +12,7 @@ There can be around 1500 pages in total, but verify this number on the [website]
 ```
 git clone https://github.com/simonlobgromov/Mashina_KG_Parsing
 cd Mashina_KG_Parsing
+pip install -r requirements.txt
 
 python parsing.py
 ```
